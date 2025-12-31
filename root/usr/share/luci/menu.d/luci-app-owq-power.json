@@ -1,0 +1,10 @@
+{
+	"admin/system/owq-power": {
+		"title": "OWQ Power",
+		"action": {
+			"type": "view",
+			"path": "owq-power"
+		},
+		"order": 90
+	}
+}

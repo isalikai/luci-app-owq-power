@@ -1,0 +1,17 @@
+{
+	"luci-app-owq-power": {
+		"description": "Grant access to reboot and poweroff commands",
+		"read": {
+			"file": {
+				"/sbin/reboot": [ "exec" ],
+				"/sbin/poweroff": [ "exec" ]
+			}
+		},
+		"write": {
+			"file": {
+				"/sbin/reboot": [ "exec" ],
+				"/sbin/poweroff": [ "exec" ]
+			}
+		}
+	}
+}

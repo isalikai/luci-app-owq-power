@@ -1,0 +1,44 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "OWQ Power Control"
+msgstr "OWQ 电源控制"
+
+msgid "Quickly manage your device power state."
+msgstr "快速管理您的设备电源状态。"
+
+msgid "Reboot System"
+msgstr "重启系统"
+
+msgid "Power Off"
+msgstr "立即关机"
+
+msgid "Confirm Reboot?"
+msgstr "确认重启?"
+
+msgid "Rebooting may take a few minutes. Network will be interrupted."
+msgstr "设备重启可能需要几分钟，期间网络将中断。"
+
+msgid "Confirm Shutdown?"
+msgstr "确认关机?"
+
+msgid "You will need to manually press the power button to turn it back on."
+msgstr "关机后，您需要手动按下物理电源键才能再次启动。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Confirm"
+msgstr "确定"
+
+msgid "Processing..."
+msgstr "执行中..."
+
+msgid "Sending command, please wait..."
+msgstr "正在发送指令，请稍候..."
+
+msgid "Command sent. Check device status."
+msgstr "指令已发送。如果不响应，请检查设备状态。"
+
+msgid "Failed: "
+msgstr "执行失败: "
